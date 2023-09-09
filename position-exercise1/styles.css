@@ -1,0 +1,40 @@
+body {
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom:0;
+    margin: 0px;
+}
+.red {
+    background-color: red;
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+}
+
+.yellow {
+    background-color: yellow;
+    position: relative;
+    width: 16rem;
+    height: 16rem;
+    top: 2rem;
+    left: 2rem;
+}
+
+.green {
+    background-color: green;
+    position: relative;
+    width: 12rem;
+    height: 12rem;
+    top: 2rem;
+    left: 2rem;
+}
+.blue {
+    background-color: blue;
+    position: relative;
+    width: 8rem;
+    height: 8rem;
+    top: 2rem;
+    left: 2rem;
+}
